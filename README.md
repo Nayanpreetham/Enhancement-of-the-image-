@@ -29,22 +29,4 @@ The project includes:
 - Compare original and enhanced images
 - Visualize histogram transformations
 
-## Folder Structure
 
-```text
-Enhancement-of-the-image/
-│
-├── images/
-│   ├── input/
-│   ├── output/
-│
-├── scripts/
-│   ├── main.m
-│   ├── histogram_equalization.m
-│   ├── filtering.m
-│   ├── sharpening.m
-│
-├── results/
-│   ├── comparison_results.png
-│
-└── README.md
